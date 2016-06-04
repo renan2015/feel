@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8" />
-    <title>.::Nuevo Registro::.</title>
+    <title>.::Nuevo Registro en git::.</title>
     <link data-require="bootstrap-css@3.3.6" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
     <script>document.write('<base href="' + document.location + '" />');</script>
     <link rel="stylesheet" href="css/estilos.css" />
