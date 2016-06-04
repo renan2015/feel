@@ -1,0 +1,100 @@
+body{
+  background:#E6E6E6;
+}
+.col-md-4{
+/*border:solid 1px red;*/
+
+}
+
+#nuevo{
+  padding-left: 50px;
+  padding-right: 50px;
+  /*border:solid 1px red;*/
+  padding-top: 100px;
+
+
+}
+
+#tabla_angular{
+  /*border:solid 1px red;*/
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#tabla{
+  width: 90%;
+}
+
+#cabecera{
+  text-align: center;
+  background-color: #000;
+   z-index: 1;
+
+
+}
+
+.iconos{
+  z-index: 2;
+  top:15px;
+  position: absolute;
+  margin-left: 15px;
+  /*border:solid 1px red;*/
+  color: white;
+
+
+}
+
+
+
+#paginador{
+  background:#E6E6E6;
+  text-align: center;
+  padding: 20px;
+
+}
+
+.row{
+  background:#E6E6E6;
+}
+
+#curso{
+  margin-top: -10px;
+}
+
+#color{
+  margin-top: -10px;
+  height: 40px;
+}
+
+#nombre{
+
+  /*border:solid 1px blue;*/
+  height: 20px;
+
+
+}
+
+#revise{
+  padding-top: 18px;
+/*  border:solid 1px red;*/
+}
+
+
+
+#file1 {
+    color: #ffffff;
+    background-color: #BD1B56;
+    border-color: #130269;
+    padding-right: 5px;
+}
+
+
+
+#botones{
+  padding-top:15px;
+  text-align: left;
+}
+
+.chico{
+  font-size: 9px;
+}
